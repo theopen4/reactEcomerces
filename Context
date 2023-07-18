@@ -1,0 +1,95 @@
+[33mcommit 3bbf3e432238f0e9d60e40e2d1674652d1eb0e3a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Thu Jun 29 15:32:31 2023 +0100
+
+    Create Loading and Message Component
+
+[33mcommit 8509e97b6a735f4c759a1bc69bf34e498d00c5c5[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Thu Jun 29 13:17:58 2023 +0100
+
+    video-12-Create-product-details-screen
+
+[33mcommit 9c18ef58d3a05f088f173461a851db0e445d47e5[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Mon Jun 26 21:23:21 2023 +0100
+
+    11-create rating and product
+
+[33mcommit 2f3cfac73069b7937cfd4163919c54d426d37f90[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Tue Jun 13 23:17:49 2023 +0100
+
+    task bootsrap
+
+[33mcommit eeb6358d8e1c95759b6f16d5cd49d6051490c168[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Mon Jun 12 21:33:48 2023 +0100
+
+    first task react ecommerce
+
+[33mcommit 6d2791baa1c98f635e9c30d12c580580755667cd[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Thu Jun 1 10:14:45 2023 +0100
+
+    13. Create Loading and Message Component1
+
+[33mcommit c9eb203113b152bc5c85cdb1485b4e3c41ae9e61[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Wed May 31 13:51:12 2023 +0100
+
+    12-Create Product Details Screen
+
+[33mcommit df0ba4ced1324a5e15230ec44a9e28bceed92638[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Tue May 30 20:29:05 2023 +0100
+
+    10. Add bootstrap UI Framework Create Product and Rating Component
+
+[33mcommit 3e778e0daef5f94180aa60512c4e6f4f4131da78[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Sun May 28 00:29:48 2023 +0100
+
+    10. Add bootstrap UI Framework
+
+[33mcommit f8b081b31274113d7f2c280afdcecaead9ba8ba3[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Sat May 27 15:19:18 2023 +0100
+
+    9. Manage State By Reducer Hook
+
+[33mcommit cf94bddd6a7a2e91746e7ac543442d81df326c0a[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Fri May 26 15:14:43 2023 +0100
+
+    Fetch Products From Backend
+
+[33mcommit 37d4cbf7f433e916a438de1c62fad057d3ae3e12[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Thu May 25 13:35:39 2023 +0100
+
+    Create Node.JS Server
+
+[33mcommit 7eced67a38e276eb090c800c4cc7a626259cb240[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Wed May 24 23:42:20 2023 +0100
+
+    Add page routing
+
+[33mcommit 47208a446bc099e18cdf3c870978a95508c0cc8c[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Wed May 24 14:04:23 2023 +0100
+
+    5. list products
+
+[33mcommit a803b94f2685524c591c55876feb27825c26650c[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Mon May 22 17:02:03 2023 +0100
+
+    git init repository
+
+[33mcommit e3b2ca829b93e490b8384293d2ad97f0bb21ee7b[m
+Author: theopen4 <kielze86@gmail.com>
+Date:   Mon May 22 16:46:12 2023 +0100
+
+    reactEcomerces
